@@ -1,0 +1,296 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#000000 ;
+}
+header H1{
+    color:#FAAB78;
+    font-size: 30PX;
+    
+}
+ header h1{
+    text-align: left;
+    
+}
+header span{
+    color: #9CFF2E;
+}
+ul li a menu{
+    position: absolute;
+    top: 65%;
+    left: 60%;
+    padding: 20PX;
+    font-size: 20PX;
+    font-weight: 900;
+    background-color: blue;
+    border-radius: 30PX;
+}
+UL LI {
+    display: inline-block;
+    padding: 10px;
+    list-style: none;
+}
+ UL LI {
+    text-decoration: none;
+    background-color:#E3CDC1;
+    color:#B67162;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 900 ;
+}
+UL LI:hover{
+    font-size: 30px;
+    background-color: yellow;
+    color: red;
+    transition: 1,5s;
+}
+ul li{
+    border-radius: 30px;
+}
+img{
+    width: 190px;
+    height: 100px;
+    padding: 5px;
+    border-radius: 100%;
+}
+.container{
+    width: 100%;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: ;
+    
+}
+.pop{
+    width: 100%;
+    height: 100px;
+    border: #B67162;
+}
+.mem1{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+    
+}
+.mem2{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.mem3{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.mem4{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.nnn{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.nnnn{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+h1{
+    color: #5E454B;
+    animation-name: bbcc;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+}
+@keyframes bbcc{
+    0%{color: #5E454B;}
+    25%{color: #D18CE0t;}
+    50%{color: #E78EA9;}
+    100%{color :#00FFAB;}
+}
+
+.container{
+    width: 100%;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: ;
+    
+}
+.w1{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+    
+}
+.w2{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.w3{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.w4{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.w5{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.w6{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.container{
+    width: 100%;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: ;
+    
+}
+.t1{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+    
+}
+.t2{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.t3{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.t4{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.t5{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+.t6{
+    width: 200px;
+    height: 200px;
+    margin: 9px;
+}
+@media screen and (max-width: 480px){
+    .red{
+        width: 100%;
+        height: 100%;
+    }
+    .fg{
+        /* color: black; */
+        font-size: 20px;
+    }
+    span{
+        font-size: 20px;
+    }
+    .fgf{
+        font-size: 20px;
+    }
+    .w1{
+        width: 180px;
+        height: 100%;
+    }
+    .w2{
+        width: 180px;
+        height: 100%;
+    }
+    .w3{
+        width: 180px;
+        height: 100%;
+    }
+    .w4{
+        width: 180px;
+        height: 100%;
+    }
+    .w5{
+        width: 180px;
+        height: 100%;
+    }
+    .w6{
+        width: 180px%;
+        height: 100%;
+    }
+    .t1{
+        width: 180px;
+        height: 100%;
+    }
+    .t2{
+        width:180px;
+        height: 100%;
+    }
+    .t3{
+        width: 180px;
+        height: 100%;
+    }
+    .t4{
+        width: 180px;
+        height: 100%;
+    }
+    .t5{
+        width: 180px;
+        height: 100%;
+    }
+    .t6{
+        width: 180px;
+        height: 100%;
+    }
+    .mem1{
+        width: 180px;
+        height: 100%;
+    }
+    .mem2{
+        width: 180px;
+        height: 100%;
+    }
+    .mem3{
+        width: 180px;
+        height: 100%;
+    }
+    .mem4{
+        width: 180px;
+        height:100%;
+    }
+    .nnn{
+        width: 180px;
+        height: 100%;
+    }
+    .nnnn{
+        width: 180px;
+        height: 100%;
+    }
+    .pop{
+        font-size: 15px;
+    }
+    .pop{
+        text-align: center;
+    }
+    h3{
+        font-size: 10px;
+    }
+    .red{
+        width: 100%;
+    }
+
+}
